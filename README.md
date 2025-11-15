@@ -1,6 +1,6 @@
-## WIP
 
-# YOLO Tennis GameTracking
+
+# YOLO Tennis GameTracking WIP
 
 This project analyzes tennis players in video footage to measure their movement speed, ball shot velocity, and shot count. It uses YOLO to detect players and the tennis ball, and employs CNNs to extract keypoints from the tennis court.
 
